@@ -9,6 +9,6 @@ The following link is to the website [Work day schedular]()
 
 
 
-<!-- @TODO: create ticket to review/update image) -->
+
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/Images/Screenshot%2020.png)
 
